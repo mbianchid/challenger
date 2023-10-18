@@ -11,9 +11,9 @@ Seu desafio de hoje é criar os destinos possíveis de um jogo, em que o usuári
 3. Depois, independente das escolhas anteriores, o usuário poderá escolher entre seguir se especializando na área escolhida ou seguir se desenvolvendo para se tornar Fullstack. Você deve exibir na tela uma mensagem específica para cada escolha.
 4. Por fim, pergunte quais são as tecnologias nas quais a pessoa gostaria de se especializar ou de conhecer. Aqui, a pessoa pode responder N tecnologias, uma de cada vez. Então, enquanto ela continuar respondendo ok para a pergunta: “Tem mais alguma tecnologia que você gostaria de aprender?”, continue apresentando para ela o Prompt, para que ela complete o nome da tecnologia em questão. E, logo depois, apresente uma mensagem comentando algo sobre a linguagem inserida.
 
-O importante é que a pessoa que estiver jogando possa sempre escolher qual decisão tomar para conseguir aprender e se desenvolver na área de programação.
+    O importante é que a pessoa que estiver jogando possa sempre escolher qual decisão tomar para conseguir aprender e se desenvolver na área de programação.
 
-Além disso, também é essencial que, ao final do jogo, ela possa inserir quantas tecnologias quiser na lista de aprendizado.
+    Além disso, também é essencial que, ao final do jogo, ela possa inserir quantas tecnologias quiser na lista de aprendizado.
 
 
 DAY 5
@@ -25,9 +25,9 @@ DAY 5
 Caso você adicione na sua lista:
 banana, leite em pó, tomate, leite vegetal, chiclete, bala de ursinho, maçã, uva, abacate e leite de vaca
 
-O programa deverá imprimir, por exemplo:
-Lista de compras:
-    Frutas: banana, tomate, maçã, uva, abacate
-    Laticínios: leite vegetal, leite de vaca, leite em pó
-    Congelados:
-    Doces: chiclete e bala de ursinho
+    O programa deverá imprimir, por exemplo:
+    Lista de compras:
+        Frutas: banana, tomate, maçã, uva, abacate
+        Laticínios: leite vegetal, leite de vaca, leite em pó
+        Congelados:
+        Doces: chiclete e bala de ursinho
