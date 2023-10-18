@@ -1,9 +1,9 @@
 # challenger
 Repositório destinado aos desafios realizados na página: https://7daysofcode.io/
 
-### DESAFIOS JAVASCRIPT ###
+## DESAFIOS JAVASCRIPT ###
 
-## DAY 1
+### DAY 1
 Reescrever o código abaixo de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros:
     let numeroUm = 1
     let stringUm = '1'
@@ -30,7 +30,7 @@ if (COMPARAR O numeroDez e a stringDez) {
 }
 ```
 
-## DAY 2 
+### DAY 2 
 Desenvolver um programa simulando um desses sites. Ele deve pedir para o usuário responder 3 perguntas:
 - Qual o seu nome?
 - Quantos anos você tem?
@@ -46,7 +46,7 @@ Dependendo da resposta, ele deve mostrar uma das seguintes mensagens:
 1. Muito bom! Continue estudando e você terá muito sucesso.
 2. Ahh que pena... Já tentou aprender outras linguagens?
 
-## DAY 3 
+### DAY 3 
 Criar os destinos possíveis de um jogo, em que o usuário consiga escolher:
 1. Se quer seguir para área de Front-End ou seguir para a área de Back-End.
 2. Caso esteja na área de Front-End, se quer aprender React ou aprender Vue. Caso esteja na área de Back-End, poderá aprender C# ou aprender Java.
@@ -56,13 +56,13 @@ Criar os destinos possíveis de um jogo, em que o usuário consiga escolher:
 O importante é que a pessoa que estiver jogando possa sempre escolher qual decisão tomar para conseguir aprender e se desenvolver na área de programação.
 Além disso, também é essencial que, ao final do jogo, ela possa inserir quantas tecnologias quiser na lista de aprendizado.
 
-## DAY 4
+### DAY 4
 Criar um programinha que comece com um valor específico pré-definido entre 0 a 10 para o número que você vai adivinhar (7, por exemplo).
 Em seguida, o programa vai perguntar para você qual o valor que você deseja chutar e, caso você acerte, ele irá te parabenizar. 
 Caso erre, ele vai te dar mais 2 tentativas.
 No fim, caso você não acerte nenhuma vez, ele vai imprimir qual era o número inicial.
 
-## DAY 5
+### DAY 5
 
 1. Criar um programa em Javascript que perguntará se você deseja adicionar uma comida na sua lista de compras, e você deve poder responder com sim ou não.
 2. Em seguida, ele perguntará qual comida você deseja inserir, e você digitará o nome dela, como por exemplo batata.
@@ -78,6 +78,6 @@ banana, leite em pó, tomate, leite vegetal, chiclete, bala de ursinho, maçã, 
         Congelados:
         Doces: chiclete e bala de ursinho
 
-## DAY 6
+### DAY 6
 
-## DAY 7
+### DAY 7
