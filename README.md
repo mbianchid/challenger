@@ -9,6 +9,7 @@ Figma: https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?no
 ### DESAFIOS DOS DIAS
 1. Desenvolver o cabeçalho da aplicação;
 2. Desenvolver a primeira seção da sua página, que também pode ser chamada de "cabeçalho";
+3. Desenvolver uma parte bem legal e desafiadora: a seção de métricas e resultados da sua página;
 
 ## DESAFIOS JAVASCRIPT ###
 
