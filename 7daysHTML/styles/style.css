@@ -175,15 +175,12 @@ section.informacao {
     font-weight: 500;
     line-height: 30px;
     margin-left: 16.5rem;
-    /* padding: 0 0 0 15rem; */
 }
 
 .vagas-container-bloco {
     margin: 0 auto;
-    /* border: 1px solid var(--card-border); */
     width: 60%;
     padding: 1.5rem;
-    /* border-radius: 16px; */
 }
 
 .titulo-vaga {
