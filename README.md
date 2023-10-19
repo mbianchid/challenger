@@ -1,6 +1,15 @@
 # challenger
 Repositório destinado aos desafios realizados na página: https://7daysofcode.io/
 
+## DESAFIO HTML ##
+
+O escopo do projeto é o seguinte: uma empresa de TI quer desenvolver uma página destinada a novas contratações e contratou você para desenvolvê-la.
+Figma: https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0%3A1&mode=dev
+
+### DESAFIOS DOS DIAS
+1. Desenvolver o cabeçalho da aplicação;
+2. Desenvolver a primeira seção da sua página, que também pode ser chamada de "cabeçalho";
+
 ## DESAFIOS JAVASCRIPT ###
 
 ### DAY 1
