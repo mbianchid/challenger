@@ -6,6 +6,7 @@
     --main_letter: #667085;
     --second_letter:#3A404E;
     --title_letter: #101828;
+    --cor-tipo-dois: #8e24240d;
     
     --main_font: 'Inter', sans-serif;
 }
@@ -51,13 +52,18 @@ button#signUp {
     color: var(--backgroud_color);
 }
 
+#signUp:hover {
+    background-color: var(--cor-tipo-dois);
+    color: var(--color_button)
+}
+
 .cabecalho {
     margin: 6rem 0 6rem 0;
 }
 
 .cabecalho-span {
-    /* margin-top: 4rem; */
     font-weight: 600;
+    font-size: 22px;
     display: flex;
     justify-content: center;
     color: var(--color_button);
@@ -81,12 +87,11 @@ button#signUp {
 }
 
 .metricas-container{
-    width: 100%;
     height: auto;
     margin: 0rem 0 6rem 0;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-evenly;
     text-align: justify;
     padding: 1rem;
 }
@@ -110,4 +115,41 @@ button#signUp {
     padding-top: 8px;
     width: 280px;
     color: var(--main_letter);
+}
+
+.banner-vagas-container{
+    padding: 5%, 15%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.banner-vagas-container-span {
+    display: flex;
+    padding: 4px 12px;
+    width: 40%;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--cor-tipo-dois);
+    color: var(--color_button);
+    font-weight: 500;
+    font-size: 14px;
+    margin: 0 0 1rem 11rem;
+    border-radius: 16px;
+}
+
+.banner-vagas-container-titulo {
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 1.3rem;
+}
+
+.banner-vagas-container-paragrafo {
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 3rem;
+}
+
+.banner-vagas-image {
+    margin-bottom: 4rem;
 }

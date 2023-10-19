@@ -10,6 +10,7 @@ Figma: https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?no
 1. Desenvolver o cabeçalho da aplicação;
 2. Desenvolver a primeira seção da sua página, que também pode ser chamada de "cabeçalho";
 3. Desenvolver uma parte bem legal e desafiadora: a seção de métricas e resultados da sua página;
+4. Desenvolver a seção de "Estamos procurando por talentos", mas sem a parte de divulgação de vagas ainda, apenas até a imagem;
 
 ## DESAFIOS JAVASCRIPT ###
 
