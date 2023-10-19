@@ -7,7 +7,7 @@
     --second_letter:#3A404E;
     --title_letter: #101828;
     --cor-tipo-dois: #8e24240d;
-    
+    --card-border: #EAECF0;
     --main_font: 'Inter', sans-serif;
 }
 
@@ -152,4 +152,62 @@ button#signUp {
 
 .banner-vagas-image {
     margin-bottom: 4rem;
+}
+
+section.vagas-container {
+    display: flex;
+    width: 1280px;
+    padding: 0px 3%;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+section.informacao {
+    padding: 0 0 2rem 0;
+}
+
+.vagas-container-titulo {
+    align-self: stretch;
+    color: var(--title_letter);
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    margin-left: 16.5rem;
+    /* padding: 0 0 0 15rem; */
+}
+
+.vagas-container-bloco {
+    margin: 0 auto;
+    /* border: 1px solid var(--card-border); */
+    width: 60%;
+    padding: 1.5rem;
+    /* border-radius: 16px; */
+}
+
+.titulo-vaga {
+    align-self: stretch;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px
+}
+
+.informacao-contexto {
+    display: flex;
+    flex-direction: row;
+    padding: 0.7rem;
+    color: var(--main_letter);
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.informacoes-vaga {
+    padding: 1rem;
+    border: 1px solid var(--card-border);
+    border-radius: 16px;
 }
