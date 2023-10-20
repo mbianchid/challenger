@@ -6,9 +6,13 @@
     --main_letter: #667085;
     --second_letter:#3A404E;
     --title_letter: #101828;
+    --shadowbox:  #1018280d;
     --backgroud-button: #8e24240d;
     --card-border: #EAECF0;
     --backgroud-banner: #c3191908;
+    --border-email: #D0D5DD;
+    --copyright: #98A2B3;
+    --backgroud-color-rodape: #F9FAFB;
     --main_font: 'Inter', sans-serif;
 }
 
@@ -130,7 +134,6 @@ button#signUp {
     padding: 4px 12px;
     width: 40%;
     justify-content: center;
-    align-items: center;
     background-color: var(--backgroud-button);
     color: var(--color_button);
     font-weight: 500;
@@ -261,5 +264,85 @@ section.depoimento {
     font-style: normal;
     font-weight: 400;
     line-height: 20px;
+    padding-bottom: 4rem;
+}
+
+.rodape {
+    padding: 4rem;
+    background: var(--backgroud-color-rodape);
+}
+
+.rodape-titulo {
+    color: var(--title_letter);
+    text-align: center;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 44px;
+    letter-spacing: -0.72px;
+    margin-bottom: 1.3rem;
+}
+
+.rodape-texto {
+    align-self: stretch;
+    color: var(--main_letter);
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 2.5rem;
+}
+
+.rodape-bloco-email {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+    align-items: center;
+}
+
+.rodape-email {
+    display: flex;
+    padding: 12px 14px 12px 16px;
+    align-items: center;
+    gap: 8px;
+    align-self: stretch;
+    border-radius: 8px;
+    border: 1px solid var(--border-email);
+    background: var(--backgroud_color);
+    box-shadow: 0px 1px 2px 0px var(--shadowbox);
+}
+
+.rodape-button {
+    padding: 12px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border-radius: 8px;
+    border: 1px solid var(--color_button);
+    background: var(--color_button);
+    box-shadow: 0px 1px 2px 0px var(--shadowbox);
+    color: var(--backgroud_color);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.rodape-button:hover {
+    background-color: var(--backgroud-button);
+    color: var(--color_button);
+}
+
+.rodape-copyright {
+    display: flex;
+    justify-content: center;
+    color: var(--copyright);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
     padding-bottom: 4rem;
 }
