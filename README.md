@@ -12,6 +12,7 @@ Figma: https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?no
 3. Desenvolver uma parte bem legal e desafiadora: a seção de métricas e resultados da sua página;
 4. Desenvolver a seção de "Estamos procurando por talentos", mas sem a parte de divulgação de vagas ainda, apenas até a imagem;
 5. Desenvolver a seção de vagas;
+6. Desenvolver a seção de Depoimentos;
 
 ## DESAFIOS JAVASCRIPT ###
 
